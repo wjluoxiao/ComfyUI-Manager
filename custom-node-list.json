@@ -45885,13 +45885,13 @@
         },
         {
         "author": "WJLUOXIAO",
-        "title": "XB_ToolBox (小白工具箱)",
+        "title": "XB_ToolBox",
         "reference": "https://github.com/WJLUOXIAO/XB_ToolBox",
         "files": [
             "https://github.com/WJLUOXIAO/XB_ToolBox"
         ],
         "install_type": "git-clone",
-        "description": "专为极端显存环境打造的 ComfyUI 性能压榨与节点增强工具箱，包含模型分块交换、时空接力驱动等硬核优化节点。"
+        "description": "A comprehensive ComfyUI extension suite encompassing both front-end interaction and low-level memory scheduling, designed to help beginners master workflows and simplify local deployment."
     }
     ]
 }
